@@ -32,5 +32,6 @@ You can dm for help **highvisibilityraincoat#6666**.
 * Login the Computer, Name CapciRDP PW 666666 ( You can change name, password If you want. )
 
 
-## Original Author:
+## Credits:
 > Don't know who was the original creator, I just edited it and made it still useable in 2021. So, credit goes to whoever created this.
+> And also, chichiya. Thanks for sharing & updating fixed growtopia.
