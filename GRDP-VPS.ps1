@@ -25,8 +25,8 @@ Expand-Archive -Path C:\Users\Public\Desktop\Growtopia.zip -DestinationPath C:\U
 Expand-Archive -Path C:\Users\Public\Desktop\Growtopia.zip -DestinationPath C:\Users\Public\Desktop\FixedGT1
 Expand-Archive -Path C:\Users\Public\Desktop\Growtopia.zip -DestinationPath C:\Users\Public\Desktop\FixedGT2
 New-Item -ItemType SymbolicLink -Path "C:\Users\Public\Desktop" -Name "Normal Growtopia.lnk" -Value "C:\Users\runneradmin\Appdata\Local\Growtopia\Growtopia.exe"
-Invoke-WebRequest https://github.com/chichiyacompany/Growtopia/raw/master/Growtopia.exe -OutFile "C:\Users\Public\Desktop\FixedGT1\Growtopia\FixedGT1.exe"
-Invoke-WebRequest https://github.com/chichiyacompany/Growtopia/raw/master/Growtopia.exe -OutFile "C:\Users\Public\Desktop\FixedGT2\Growtopia\FixedGT2.exe"
+Invoke-WebRequest https://github.com/OnurCreed/secretsource/raw/main/Files/Programs/Growtopia.exe -OutFile "C:\Users\Public\Desktop\FixedGT1\Growtopia\FixedGT1.exe"
+Invoke-WebRequest https://github.com/OnurCreed/secretsource/raw/main/Files/Programs/Growtopia.exe -OutFile "C:\Users\Public\Desktop\FixedGT2\Growtopia\FixedGT2.exe"
 New-Item -ItemType SymbolicLink -Path "C:\Users\Public\Desktop" -Name "Fixed GT1.lnk" -Value "C:\Users\Public\Desktop\FixedGT1\Growtopia\FixedGT1.exe"
 New-Item -ItemType SymbolicLink -Path "C:\Users\Public\Desktop" -Name "Fixed GT2.lnk" -Value "C:\Users\Public\Desktop\FixedGT2\Growtopia\FixedGT2.exe"
 Remove-Item C:\Users\Public\Desktop\FixedGT1\Growtopia\Growtopia.exe -Recurse
