@@ -30,6 +30,7 @@ You can dm for help **highvisibilityraincoat#6666**.
 * Paste the Windows (PowerShell) code and run workflow.
 * Wait 2-3 minutes and go https://remotedesktop.google.com/access If everything worked good you will see your computer there.
 * Login the Computer, Name CapciRDP PW 666666 ( You can change name, password If you want. )
+* Quick Note: While using GRDP you dont have to create many accounts like NGROK. Just repeat the same process on same gmail account.
 
 
 ## Credits:
