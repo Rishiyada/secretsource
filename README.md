@@ -32,7 +32,6 @@ You can dm for help **highvisibilityraincoat#6666**.
 * Login the Computer, Name CapciRDP PW 666666 ( You can change name, password If you want. )
 * Quick Note: While using GRDP you dont have to create many accounts like NGROK. Just repeat the same process on same gmail account.
 
-* Note: If you're going to steal my repo at least don't remove the credits part and give me credits for making automated setup for teohook.
 
 
 ## Credits:
@@ -40,3 +39,5 @@ You can dm for help **highvisibilityraincoat#6666**.
 
 
 > And also, chichiya. Thanks for sharing & updating fixed growtopia.
+* Note: If you're going to steal my repo at least don't remove the credits part and give me credits for making automated setup for teohook.
+
