@@ -19,7 +19,7 @@ You can dm for help **highvisibilityraincoat#6666**.
 * In Value: visit https://dashboard.ngrok.com/auth/your-authtoken Copy and Paste Your Authtoken into
 * Press Add secret
 * Go to Action> Run workflow
-* Reload the page and press RDP_COFFIN> build
+* Reload the page and press Windows (NGROK RDP)> build
 * Press the down arrow on Connect To Your RPD to get IP, User, Password.
 
 ### How to setup GRDP? ( Windows Remote Desktop ). 
