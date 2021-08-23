@@ -18,7 +18,7 @@ Invoke-WebRequest https://hide.me/downloads/Hide.me-Setup-3.8.3.exe -OutFile "C:
 Invoke-WebRequest https://ubistatic-a.akamaihd.net/0098/31789/GrowtopiaInstaller.exe -OutFile "C:\Users\Public\Desktop\Teohook Setup\Latest GT\GrowtopiaInstaller.exe"
 Invoke-WebRequest https://raw.githubusercontent.com/OnurCreed/secretsource/main/Files/Programs/items.dat -OutFile "C:\Users\Public\Desktop\Teohook Setup\Important\items.dat"
 Invoke-WebRequest https://raw.githubusercontent.com/OnurCreed/secretsource/main/Files/Programs/crashfix.txt -OutFile "C:\Users\Public\Desktop\Teohook Setup\Important\crashfix.txt"
-Invoke-WebRequest https://www.dl.dropboxusercontent.com/s/5l2mfoffvr8m7at/Growtopia.zip?dl=0 -OutFile "C:\Users\Public\Desktop\Growtopia.zip"
+Invoke-WebRequest https://www.dl.dropboxusercontent.com/s/slgchsastkpj13n/Growtopia.zip?dl=0 -OutFile "C:\Users\Public\Desktop\Growtopia.zip"
 Invoke-WebRequest https://www.dl.dropboxusercontent.com/s/79kacg0wdlbrjgt/NordVPN-safon4e.exe?dl=0 -OutFile "C:\Users\Public\Desktop\NordVPN-Setup.exe"
 Invoke-WebRequest https://raw.githubusercontent.com/OnurCreed/secretsource/main/Files/Programs/nordvpn-acc.txt -OutFile "C:\Users\Public\Desktop\nord-acc.txt"
 Expand-Archive -Path C:\Users\Public\Desktop\Growtopia.zip -DestinationPath C:\Users\runneradmin\Appdata\Local
